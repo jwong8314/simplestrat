@@ -54,3 +54,4 @@ If you use SimpleStrat in your research, please cite:
 ## Contact
 
 [Contact information to be added]
+
