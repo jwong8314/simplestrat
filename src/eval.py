@@ -36,8 +36,3 @@ def get_answers_from_file(file):
         entries = f.readlines()
         entries = [json.loads(entry) for entry in entries]
     return entries
-
-GT = "CoverageQA.json"
-with open (GT, 'r') as f:
-    GT = json.load(f)
-    
